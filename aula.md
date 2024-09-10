@@ -34,8 +34,9 @@ Boolean: true, false
 
 ## Operadores
 
-Operadores de atribuição de valor
-Operador de concatenação
+- Operadores de atribuição de valor
+- Operador de concatenação: +
+- Operadores de comparação: ==(igual) / != (diferente) / <= / >= / <>
 
 ## Estruturas de dados
 
@@ -88,6 +89,8 @@ const start = () => {
     }
 }
 start()
+
+- if/else
 
 ## Módulos em Node.js:
 
