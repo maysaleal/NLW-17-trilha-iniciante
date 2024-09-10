@@ -88,3 +88,12 @@ const start = () => {
     }
 }
 start()
+
+## Módulos em Node.js:
+
+- Importação de módulos (require, CommonJS)
+- Biblioteca 'inquirer' para criar prompts interativos
+
+## Proramação assíncrona e Promises:
+
+- Uso de funções assíncronas (async/await)
