@@ -44,7 +44,7 @@ Boolean: true, false
 ### Arrays:
 
 - Uma lista que contem qualquer tipo de dado
-- Métodos de array: push, [find, forEach, filter] : HCF (Highter Order Function)
+- Métodos de array: push, [find, forEach, filter, map] : HCF (Highter Order Function)
 
 ### Objetos:
 
