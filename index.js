@@ -111,7 +111,7 @@ const deletarMetas = async () => {
         mensagem = "Não existem metas"
         return
     }
-    
+
     const metasDesmarcadas = metas.map((meta) => {
         return {value: meta.value, checked: false}
     })
