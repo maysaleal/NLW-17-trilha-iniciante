@@ -37,18 +37,20 @@ Boolean: true, false
 - Operadores de atribuição de valor
 - Operador de concatenação: +
 - Operadores de comparação: ==(igual) / != (diferente) / <= / >= / <>
+- spread operator: ...
 
 ## Estruturas de dados
 
 ### Arrays:
 
-Uma lista que contem qualquer tipo de dado
+- Uma lista que contem qualquer tipo de dado
+- Métodos de array: push, [find, forEach, filter] : HCF (Highter Order Function)
 
 ### Objetos:
 
-Atributos e métodos
-Criação e manipulação de abjetos
-Acesso a propriedades de objetos
+- Atributos e métodos
+- Criação e manipulação de abjetos
+- Acesso a propriedades de objetos
 
 ## Function
 
